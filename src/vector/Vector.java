@@ -42,7 +42,7 @@ public class Vector {
                     
                     /*mateo es mejor
                     
-                    y siempre lo sera
+                    y siempre lo sera no lo olvides
                     
                     
                     }
