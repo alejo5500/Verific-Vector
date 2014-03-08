@@ -42,6 +42,8 @@ public class Vector {
                     
                     /*mateo es mejor
                     
+                    y siempre lo sera
+                    
                     
                     }
                             */
