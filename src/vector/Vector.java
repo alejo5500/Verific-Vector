@@ -38,6 +38,11 @@ public class Vector {
                     for(int j=0;j<5;j++){
                         JOptionPane.showMessageDialog(null,"El numero en la posicion "+(j+1)+
                                 " Es: \n"+validarvector.getnumero()[j]);
+                    
+                    
+                    /*mateo es mejor
+                    
+                    
                     }
                             */
                // break;
